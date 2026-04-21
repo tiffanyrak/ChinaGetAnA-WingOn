@@ -11,9 +11,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Content/Common/Scenes/MapTemplate/Ampier.unity
     guid: e614cf221c095054390c8994b8ca8b64
+  - enabled: 1
+    path: Assets/Samples/MRCH Toolkit/2.0.0/MRCH Toolkit Samples/Scenes/NJ-Rd-Template/E-EastNJRd.unity
+    guid: 3c468f91d5a9bcc48ad9da6dcd0563be
   - enabled: 0
     path: Assets/Content/Common/Scenes/InteractionSample - DHL-Corner.unity
     guid: cbc83998639f03546b1bd843cebbe505
+  - enabled: 0
+    path: Assets/Content/ChinaGetanA/Scenes/WingOnDepartment.unity
+    guid: 057e9b7de484149798c50739a52f7be9
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5a2f9b67c02658745b46c1890755fc21, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 004f060af04f0cc40a700fb1b81e30ad, type: 2}
